@@ -1,0 +1,4 @@
+﻿  main.cpp
+C:\Users\maksy\source\repos\SFML Game\SFML Game\main.cpp(52,73): error C2664: 'bool Collider::CheckCollider(Collider &,float)': cannot convert argument 1 from 'Collider' to 'Collider &'
+C:\Users\maksy\source\repos\SFML Game\SFML Game\main.cpp(52,65): message : A non-const reference may only be bound to an lvalue
+C:\Users\maksy\source\repos\SFML Game\SFML Game\Collider.h(12,7): message : see declaration of 'Collider::CheckCollider'
